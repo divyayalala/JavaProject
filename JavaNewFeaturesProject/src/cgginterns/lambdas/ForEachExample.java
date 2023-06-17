@@ -1,0 +1,27 @@
+package cgginterns.lambdas;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class ForEachExample {
+
+	public static void main(String[] args) {
+		List<Person> people = Arrays.asList(new Person("divya","yalala",30),new Person("nandu","jaligama",20),new Person("fariha","fathima",30));
+		//external iterators - controlled by developers - slow
+		System.out.println("Iterating using for loop");
+		for(int i=0;i<people.size();i++)
+			System.out.println(people.get(i));
+		System.out.println("---------------------------");
+		System.out.println("iterating using for in loop");
+		for(Person p:people) {
+			System.out.println(p);
+		}
+		//internal iterators - controlled by JVM - fast
+		System.out.println("------------------------");
+		System.out.println("Iterating using lambda");
+		people.forEach(i->System.out.println(i));
+		System.out.println("-------------------------");
+		System.out.println("Iterating using method reference");
+		people.forEach(System.out::println);
+	}
+}
