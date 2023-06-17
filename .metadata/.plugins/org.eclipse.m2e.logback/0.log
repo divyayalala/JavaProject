@@ -3403,3 +3403,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references non-
 2023-06-17 10:43:58,568 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CGG\Desktop\java\HibernateProject\src\test\resources
 2023-06-17 10:47:32,086 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2023-06-17 10:54:30,269 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-17 15:47:16,615 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-17 15:49:00,801 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-17 15:49:00,804 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CGG\Desktop\java\HibernateProject\src\main\resources
+2023-06-17 15:49:00,810 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-17 15:49:00,811 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CGG\Desktop\java\HibernateProject\src\test\resources
+2023-06-17 15:49:02,115 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-17 15:49:02,116 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CGG\Desktop\java\StudentManagementAppHibernate\src\main\resources
+2023-06-17 15:49:02,122 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-17 15:49:02,123 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CGG\Desktop\java\StudentManagementAppHibernate\src\test\resources
