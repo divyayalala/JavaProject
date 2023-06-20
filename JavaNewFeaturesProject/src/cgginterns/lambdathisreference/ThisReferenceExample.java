@@ -1,4 +1,4 @@
-package cgginters.lambdathisreference;
+package cgginterns.lambdathisreference;
 
 public class ThisReferenceExample {
 	public void process() {

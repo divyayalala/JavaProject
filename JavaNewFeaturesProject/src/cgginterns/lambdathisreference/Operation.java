@@ -1,4 +1,4 @@
-package cgginters.lambdathisreference;
+package cgginterns.lambdathisreference;
 
 @FunctionalInterface
 public interface Operation {
