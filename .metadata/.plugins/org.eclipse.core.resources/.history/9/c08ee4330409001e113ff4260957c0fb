@@ -1,5 +1,0 @@
-package cgginterns.defaultstaticmethods;
-
-public interface MyInterface {
-
-}

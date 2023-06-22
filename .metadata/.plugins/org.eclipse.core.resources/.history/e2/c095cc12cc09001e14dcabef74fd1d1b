@@ -1,7 +1,0 @@
-package cgginterns.lambdas;
-
-import java.util.Comparator;
-
-public class EmpComparator implements Comparator<T> {
-
-}

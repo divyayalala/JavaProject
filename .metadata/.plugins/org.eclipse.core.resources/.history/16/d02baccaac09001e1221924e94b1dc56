@@ -1,5 +1,0 @@
-package cgginterns.functionalinterface;
-
-public interface Interace2 extends Interface1 {
-
-}

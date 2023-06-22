@@ -26,14 +26,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="chatgptjava"/>
 			<item value="cgg.sma.student"/>
 			<item value="cgginterns.hibernate"/>
 		</list>
 		<list key="groupId">
+			<item value="chatgptjava"/>
 			<item value="cgg.sma.student"/>
 			<item value="cgginterns.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="ChatgptDemo"/>
+			<item value="Demo"/>
 			<item value="StudentManagementAppHibernate"/>
 			<item value="HibernateProject"/>
 			<item value="HibernateProj"/>
