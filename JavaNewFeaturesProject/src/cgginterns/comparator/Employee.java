@@ -23,5 +23,12 @@ public class Employee {
 		public String toString() {
 			return "Employee [name=" + name + ", age=" + age + "]";
 		}
+		public void setName(String name) {
+			this.name = name;
+		}
+		public void setAge(int age) {
+			this.age = age;
+		}
+		
 		
 }
