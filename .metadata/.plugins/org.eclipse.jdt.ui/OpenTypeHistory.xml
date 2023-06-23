@@ -6,17 +6,28 @@
     <typeInfo handle="=JavaNewFeaturesProject/src&lt;cgginterns.defaultstaticmethods{I2.java[I2" modifiers="513" timestamp="1686564152344"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(ArrayList.class[ArrayList" modifiers="33" timestamp="1681104238066"/>
     <typeInfo handle="=HibernateProject/C:\/Users\/CGG\/.m2\/repository\/antlr\/antlr\/2.7.7\/antlr-2.7.7.jar=/maven.pomderived=/true=/=/maven.groupId=/antlr=/=/maven.artifactId=/antlr=/=/maven.version=/2.7.7=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;antlr.collections(List.class[List" modifiers="1537" timestamp="1685338948280"/>
-    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(List.class[List" modifiers="1537" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1681104238066"/>
     <typeInfo handle="=JavaNewFeaturesProject/src&lt;cgginterns.functionalinterface{Interface1.java[Interface1" modifiers="513" timestamp="1686634766310"/>
     <typeInfo handle="=JavaNewFeaturesProject/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1681104238066"/>
-    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.stream(Collectors.class[Collectors" modifiers="49" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(Consumer.class[Consumer" modifiers="1537" timestamp="1681104238066"/>
-    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(Supplier.class[Supplier" modifiers="1537" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.stream(Streams$DoubleStreamBuilderImpl.class[DoubleStreamBuilderImpl" modifiers="24" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.stream(IntStream.class[IntStream" modifiers="1537" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Random.class[Random" modifiers="33" timestamp="1681104238066"/>
-    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(Function.class[Function" modifiers="1537" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.time.format(DateTimeFormatterBuilder$ReducedPrinterParser.class[ReducedPrinterParser" modifiers="24" timestamp="1681104238066"/>
     <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.stream(Stream.class[Stream" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(BinaryOperator.class[BinaryOperator" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(UnaryOperator.class[UnaryOperator" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(Supplier.class[Supplier" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(BooleanSupplier.class[BooleanSupplier" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(BiConsumer.class[BiConsumer" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(BiPredicate.class[BiPredicate" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.function(Function.class[Function" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util.stream(Collectors.class[Collectors" modifiers="49" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Collection.class[Collection" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(List.class[List" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(HashMap.class[HashMap" modifiers="33" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Map.class[Map" modifiers="1537" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.lang(Integer.class[Integer" modifiers="49" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(Optional.class[Optional" modifiers="49" timestamp="1681104238066"/>
+    <typeInfo handle="=BasicProj/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/module=/true=/&lt;java.util(UUID.class[UUID" modifiers="49" timestamp="1681104238066"/>
 </typeInfoHistroy>

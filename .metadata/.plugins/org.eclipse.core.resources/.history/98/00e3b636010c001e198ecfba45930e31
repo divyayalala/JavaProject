@@ -1,5 +1,0 @@
-package cgginterns.closure;
-
-public interface Operation {
-
-}

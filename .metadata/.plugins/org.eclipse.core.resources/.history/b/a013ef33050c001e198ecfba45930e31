@@ -1,5 +1,0 @@
-package cgginters.lambdathisreference;
-
-public interface Operation {
-
-}

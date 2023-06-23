@@ -17,5 +17,6 @@ public class InfiniteStreamExample2 {
 	    iterate.limit(10).forEach(System.out::println);
 	}
 	
+	
 
 }
