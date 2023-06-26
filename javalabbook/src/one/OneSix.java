@@ -1,4 +1,10 @@
 package one;
+
+import java.time.LocalDate;
+import java.time.Period;
+import java.time.format.DateTimeFormatter;
+import java.util.Scanner;
+
 class Person{
 	private String firstName;
 	private String lastName;
@@ -37,16 +43,40 @@ class Person{
 	public void setGender(char gender) {
 		this.gender = gender;
 	}
+	public int getAge(LocalDate date) {
+		LocalDate now = LocalDate.now();
+		Period period = date.until(now);
+		int age = period.getYears();
+		return age;
+	}
+	public String getFullName(String firstName,String lastName) {
+	     return firstName+lastName;
+	}
 }
 
 public class OneSix {
 
 	public static void main(String[] args) {
 		try {
+		Scanner scan = new Scanner(System.in);
 		Person p1 = new Person();
-		p1.setFirstName("Divya");
-		p1.setLastName("");
-		p1.setGender('F');
+		System.out.println("Enter FirstName :");
+		String firstName=scan.next();
+		p1.setFirstName(firstName);
+		System.out.println("Enter LastName :");
+		String lastName = scan.next();
+		p1.setLastName(lastName);
+		System.out.println("Enter Gender :");
+		char gender=scan.next().charAt(0);
+		p1.setGender(gender);
+		System.out.println("Enter date of Birth(dd/mm/yyyy) :");
+		DateTimeFormatter pattern = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+		String text = scan.next();
+		LocalDate date = LocalDate.parse(text, pattern);
+	    int age = p1.getAge(date);	
+	    System.out.println("Age : "+age);
+	    String fullName = p1.getFullName(firstName, lastName);
+	    System.out.println("FullName :"+fullName);
 		}
 		catch(Exception e) {
 			System.err.println("error: "+e.getMessage());;
